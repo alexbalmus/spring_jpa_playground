@@ -1,4 +1,4 @@
-package com.alexbalmus.dddjpa;
+package com.alexbalmus.springjpa;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

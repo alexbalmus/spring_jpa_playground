@@ -1,4 +1,4 @@
-package com.alexbalmus.dddjpa;
+package com.alexbalmus.springjpa;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
